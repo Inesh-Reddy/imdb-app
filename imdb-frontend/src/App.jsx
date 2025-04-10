@@ -1,11 +1,5 @@
-import Routing from "./components/Routing";
-
 function App() {
-  return (
-    <>
-      <Routing></Routing>
-    </>
-  );
+  return <></>;
 }
 
 export default App;
